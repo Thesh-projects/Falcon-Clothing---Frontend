@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #F8F9FA;
+  color: #333333;
+}
+
+/* Dark Brown */
+.text-primary {
+  color: #5D4037;
+}
+
+.bg-primary {
+  background-color: #5D4037;
+}
+
+/* Beige */
+.text-secondary {
+  color: #D7CCC8;
+}
+
+.bg-secondary {
+  background-color: #D7CCC8;
+}
+
+/* Gold */
+.text-accent {
+  color: #FFD700;
+}
+
+.bg-accent {
+  background-color: #FFD700;
+}
+
+/* White */
+.text-white {
+  color: #FFFFFF;
+}
+
+.bg-white {
+  background-color: #FFFFFF;
+}
+/* Gold */
+.bg-accent {
+    background-color: #FFD700;
+  }
+  
+  /* Dark Brown */
+  .text-primary {
+    color: #5D4037;
+  }
+  
+  /* White */
+  .bg-white {
+    background-color: #FFFFFF;
+  }
+/* Gold */
+.bg-accent {
+    background-color: #FFD700;
+  }
+  
+  /* Dark Brown */
+  .text-primary {
+    color: #5D4037;
+  }
+  
+  /* White */
+  .bg-white {
+    background-color: #FFFFFF;
+  }
